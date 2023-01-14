@@ -1,4 +1,4 @@
-module github.com/Decentr-net/ariadne
+module github.com/TessorNetwork/ariadne
 
 go 1.19
 

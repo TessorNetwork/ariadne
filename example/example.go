@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Decentr-net/ariadne"
+	"github.com/TessorNetwork/ariadne"
 )
 
 func main() {
